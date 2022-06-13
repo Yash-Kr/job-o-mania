@@ -1,5 +1,3 @@
-=
-
 
 
 <!-- PROJECT SHIELDS -->
@@ -121,16 +119,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Yash-Kr/SnakeGame?style=for-the-badge
-[contributors-url]: https://github.com/Yash-Kr/SnakeGame/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Yash-Kr/SnakeGame?style=for-the-badge
-[forks-url]: https://github.com/Yash-Kr/SnakeGame/network/members
-[stars-shield]: https://img.shields.io/github/stars/Yash-Kr/SnakeGame?style=for-the-badge
-[stars-url]: https://github.com/Yash-Kr/SnakeGame/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Yash-Kr/SnakeGame?style=for-the-badge
-[issues-url]: https://github.com/Yash-Kr/SnakeGame/issues
-[license-shield]: https://img.shields.io/github/license/Yash-Kr/SnakeGame?style=for-the-badge
-[license-url]: https://github.com/Yash-Kr/SnakeGame/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Himanshuranjan848/job-o-mania?style=for-the-badge
+[contributors-url]: https://github.com/Himanshuranjan848/job-o-mania/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Himanshuranjan848/job-o-mania?style=for-the-badge
+[forks-url]: https://github.com/Himanshuranjan848/job-o-mania/network/members
+[stars-shield]: https://img.shields.io/github/stars/Himanshuranjan848/job-o-mania?style=for-the-badge
+[stars-url]: https://github.com/Himanshuranjan848/job-o-mania/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Himanshuranjan848/job-o-mania?style=for-the-badge
+[issues-url]: https://github.com/Himanshuranjan848/job-o-mania/issues
+[license-shield]: https://img.shields.io/github/license/Himanshuranjan848/job-o-mania?style=for-the-badge
+[license-url]: https://github.com/Himanshuranjan848/job-o-mania/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/Yash-Kr
 [product-screenshot]: images/screenshot.png
