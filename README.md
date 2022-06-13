@@ -28,9 +28,9 @@ Video Link : [Here](https://youtu.be/_joxAPSBAik)
 <br>
 Presentation Link : [Here](https://docs.google.com/presentation/d/1LSc3ehQ4dLEyqxa8VASR3LMxIC0l-UAR/edit#slide=id.p4)
 <br>
+<br>
 <img src="https://forthebadge.com/images/badges/check-it-out.svg"> 
-
-
+<br>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project  👀
